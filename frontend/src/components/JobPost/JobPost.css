@@ -1,0 +1,72 @@
+.container-box{
+    background: #006097;
+    min-height: 100vh;
+    padding-bottom: 48px;
+}
+.header-page{
+    font-weight: 400;
+    color: rgba(255,255,255,.85);
+    text-align: center;
+    font-size: 3.2rem;
+    line-height: 1.25;
+    padding-top: 10vh;
+}
+.section-page{
+    margin: 48px auto 0;
+    padding : 24px;
+    max-width: 500px;
+    min-height: 320px;
+    background: #fff;
+    border-radius: 2px;
+    
+
+}
+.form{
+    position: relative;
+    text-align: center;
+}
+.form-control{
+    margin:0 0 12px;;
+    position : relative;
+    text-align: left;
+}
+
+.panel-containers{
+    margin-top: 20px;
+    min-width : 800px;
+    max-width : 1300px;
+    min-height : 105vh; 
+    /* max-height : 115vh; */
+    
+    background-color:#f7f7f8;
+    margin:30px;
+
+  }
+
+  .container-props{
+    padding: 10px;
+    
+    height: 200px;
+    margin: 30px;
+  }
+ .rc-slider{
+
+    position: absolute;
+    left: 0;
+    height: 309px;
+    width:100px;
+    border-radius: 300px;
+ 
+
+ }
+
+.rc-slider-track {
+    position: absolute;
+    left: 0;
+    height: 4px;
+    border-radius: 30px;
+    color:blue;
+}
+
+
+  

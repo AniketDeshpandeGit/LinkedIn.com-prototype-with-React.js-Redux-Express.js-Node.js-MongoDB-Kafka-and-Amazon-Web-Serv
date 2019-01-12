@@ -1,0 +1,18 @@
+.job_title{
+    font-size: 1.1rem;
+    font-weight: bold;
+}
+
+.job_desc{
+    font-size: 0.8rem;
+}
+
+.job_location{
+    font-size: 0.9rem;
+    font-weight: bolder;
+}
+
+.job_card{
+    max-height: 200px;
+    overflow: hidden;
+}

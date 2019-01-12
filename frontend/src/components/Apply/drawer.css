@@ -1,0 +1,90 @@
+@import url("https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css");
+@import url("https://fonts.googleapis.com/css?family=Libre+Baskerville:400,700");
+
+/* h2{float:left; width:100%; color:#fff; margin-bottom:40px; font-size: 14px; position:relartive; z-index:3; margin-top:30px}
+h2 span{font-family: 'Libre Baskerville', serif; display:block; font-size:45px; text-transform:none; margin-bottom:20px; margin-top:30px; font-weight:700}
+h2 a{color:#fff; font-weight:bold;} */
+
+/* body{background: #fff;  /* fallback for old browsers */
+/* overflow: hidden;
+    border-top: 1px solid rgba(0,0,0,.15);
+} */
+.head {
+  float: left;
+  width: 100%;
+}
+.search-box {
+  width: 95%;
+  margin: 0 auto 80px;
+  box-shadow: 12px 12px 0 rgba(0, 0, 0, 0.1);
+}
+.listing-block {
+  background: #fff;
+  height: 600px;
+  padding-top: 20px;
+  overflow-y: scroll;
+}
+
+.listing-block-connections {
+  background: #fff;
+  height: 730px;
+  padding-top: 20px;
+  overflow-y: scroll;
+}
+
+.map-box {
+  background-color: #fff;
+  height: 600px;
+  padding-top: 20px;
+  overflow-y: scroll;
+}
+.save-button {
+  background-color: transparent;
+  border: 0;
+  border-radius: 1px;
+  box-sizing: content-box;
+  color: #0073b1;
+  cursor: pointer;
+  display: inline-block;
+
+  font-size: 1.6rem;
+  font-weight: 550;
+  font-family: initial;
+
+  overflow: hidden;
+  outline-width: 2px;
+
+  position: relative;
+}
+
+.apply-div {
+  background: #ffffff none repeat scroll 0 0;
+  border-radius: 2px;
+  margin: 20px auto 30px;
+  max-width: 70%;
+  padding: 20px;
+  border: 2px solid black;
+  overflow: auto;
+}
+
+.eapply-div {
+  background: #ffffff none repeat scroll 0 0;
+  border-radius: 2px;
+  margin: 20px auto 30px;
+  max-width: 100%;
+  padding: 20px;
+  border: 2px solid black;
+  overflow: auto;
+}
+.apply-wrapper {
+  width: 400px;
+  margin: 0 auto;
+}
+
+.apply-left {
+  float: left;
+}
+
+.apply-right {
+  float: right;
+}

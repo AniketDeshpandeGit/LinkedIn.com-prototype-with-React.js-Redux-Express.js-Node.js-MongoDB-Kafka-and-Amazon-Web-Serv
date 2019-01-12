@@ -1,0 +1,24 @@
+div.container{
+    background-color: transparent;    
+}
+
+header{
+    background: url("/img/header.jpg");
+    background-repeat: none;
+    background-size: 100% 100%;
+    min-height: calc(100vh - 52px); /*show full viewport heigh minus height of NavBar*/
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* .snackbar{
+    position: fixed;
+    bottom: 4px;
+    width: 100%;
+    text-align: center;
+    line-height: 1.0;
+    padding-bottom: 2px;
+    font-weight: bold;
+} */

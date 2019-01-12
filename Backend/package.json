@@ -1,0 +1,39 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.368.0",
+    "bcrypt": "^3.0.2",
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.18.3",
+    "chai": "^4.1.2",
+    "chai-http": "^4.2.0",
+    "client-sessions": "^0.8.0",
+    "cookie-parser": "^1.4.3",
+    "cors": "^2.8.4",
+    "dotenv": "^6.1.0",
+    "express": "^4.16.4",
+    "express-session": "^1.15.6",
+    "express-sessions": "^1.0.6",
+    "jsonwebtoken": "^8.3.0",
+    "kafka-node": "^3.0.1",
+    "mocha": "^5.2.0",
+    "mongo": "^0.1.0",
+    "mongodb": "^3.1.8",
+    "mongoose": "^5.3.7",
+    "multer": "^1.4.0",
+    "mysql": "^2.16.0",
+    "npm": "^6.4.1",
+    "passport": "^0.4.0",
+    "passport-jwt": "^4.0.0",
+    "redis": "^2.8.0",
+    "uuid": "^3.3.2"
+  }
+}
